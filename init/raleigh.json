@@ -1,0 +1,17 @@
+{
+    "homeCamera": {
+        "west": 79,
+        "south": 36,
+        "east": 78,
+        "north": 35
+    },
+
+    "catalog": [
+    {   
+        "name": "Raleigh",
+        "type": "socrata",
+        "url": "http://data.raleighnc.gov/",
+        "isOpen" : "true"
+    }   
+    ]   
+}
